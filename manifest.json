@@ -1,6 +1,6 @@
 {
-  "name": "BlazorApp-empty2",
-  "short_name": "BlazorApp-empty2",
+  "name": "BlazorWasm01",
+  "short_name": "BlazorWasm01",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",

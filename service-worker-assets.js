@@ -25,15 +25,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-urXFZ7zJHIAz7axxhSmpJ9wANi61dOHyWe0FeKTyuA4=",
+      "hash": "sha256-WYCsEV\/HMrHXYo6ZuXsyOnL2Ui+p+igRbdWP7Go5+38=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-tiJqOJKFBXjbPC0MLvBaVc31okTOXkyrBo3KHg8Vfs8=",
-      "url": "_framework\/BlazorApp-empty2.dll"
+      "hash": "sha256-7VsBhv7X8TvTfUFn9gu0kYmnKoHARPocvR\/cPI+2BzU=",
+      "url": "_framework\/BlazorWasm01.dll"
     },
     {
-      "hash": "sha256-ItvZwduORdBlmHJ7UFw9FqbjQFJWNTfD9DbUys6QXFA=",
+      "hash": "sha256-AfuKe4mVtUeSMbvS\/eNNntCcnyi5Em07tIpLnY6o8w0=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -125,7 +125,7 @@
       "url": "_framework\/System.Private.Uri.dll"
     },
     {
-      "hash": "sha256-ZvMfMJewvMkxseLv\/7jTN\/QsmY8wiP\/8zTXoiuvXYcA=",
+      "hash": "sha256-V7sMTJNRLqQyqN78FfV2Hiwu7HTp+Tqeu8gRrZ2S\/r0=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -141,11 +141,11 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-lpv7r6NygQx+Acj4KqkIaZNt+LI233Q2dx\/5FCDSUFo=",
-      "url": "_framework\/dotnet.7.0.2.uzwqhtgi1o.js"
+      "hash": "sha256-hivndZZGoPOAHT3WWyxDCG8KohjhMopZWw3+\/eWjoZM=",
+      "url": "_framework\/dotnet.7.0.2.ty1rw4o2j4.js"
     },
     {
-      "hash": "sha256-7p8AaVlTus7ERRU792bXDD8AiiTTsHkbeLTrMXwDUYk=",
+      "hash": "sha256-0SBeVOK6e9UQLIkAHE9DN8V20nJ6cZ+5X+9xGtBcJzc=",
       "url": "_framework\/dotnet.wasm"
     },
     {
@@ -157,13 +157,13 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-WRE\/NGF6zWc+kKq0vvC005+aJfn7TWqDqNhXB2LVwg4=",
+      "hash": "sha256-I10L\/LiokR9g0EXEyFjmgA4ojyKrPt5v9PsS11QeNA4=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-ZSfQ5juSVPlkawiDWh\/gK1dYXvWsj1PeT97nQ9NqNMs=",
+      "hash": "sha256-kUVEyh51zR1KQFYMvfzVfpIj5eRb5cNMyjfXe47diaE=",
       "url": "manifest.json"
     }
   ],
-  "version": "08F2mH8z"
+  "version": "egl5sdCq"
 };
